@@ -24,12 +24,30 @@
     <ClCompile Include="cListSach.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cHoaDon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cListHD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cAccount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cSach.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="cListSach.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cHoaDon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cListHD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cAccount.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

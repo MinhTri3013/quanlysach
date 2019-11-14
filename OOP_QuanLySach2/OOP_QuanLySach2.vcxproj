@@ -151,11 +151,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cAccount.cpp" />
+    <ClCompile Include="cHoaDon.cpp" />
+    <ClCompile Include="cListHD.cpp" />
     <ClCompile Include="cListSach.cpp" />
     <ClCompile Include="cSach.cpp" />
     <ClCompile Include="OOP_QuanLySach2.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="cAccount.h" />
+    <ClInclude Include="cHoaDon.h" />
+    <ClInclude Include="cListHD.h" />
     <ClInclude Include="cListSach.h" />
     <ClInclude Include="cSach.h" />
   </ItemGroup>
